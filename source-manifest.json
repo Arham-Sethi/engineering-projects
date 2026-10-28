@@ -1,0 +1,82 @@
+[
+  {
+    "path": ".gitattributes",
+    "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992",
+    "bytes": 9
+  },
+  {
+    "path": ".gitignore",
+    "sha256": "3c2f505027eea8b8803e4d6d42c19061733f65fffe7a79382ede237a6624a0a2",
+    "bytes": 96
+  },
+  {
+    "path": "README.md",
+    "sha256": "bdb952ad8d9ff8bddf543bcebc19f8d509e47f27a7a44d62b32cac64d0c0c75b",
+    "bytes": 689
+  },
+  {
+    "path": "EV-Cruise/ev-cruise-original.pdf",
+    "sha256": "0bfa34699859472a3da294c718d4fbe5e95a406529f35b9e8697693587404ec4",
+    "bytes": 42459671
+  },
+  {
+    "path": "EV-Cruise/ev-cruise-portfolio.pdf",
+    "sha256": "37a9fd62f59f7d87116328db68b340d244544cd75a47144dc59c567319f3248b",
+    "bytes": 62489
+  },
+  {
+    "path": "Helios/helios-original.pdf",
+    "sha256": "a7e8bcc301260f707ae3a8bc971893ec75ec8d23eb6f1019eee4e84928b65d94",
+    "bytes": 1818331
+  },
+  {
+    "path": "Helios/helios-portfolio.pdf",
+    "sha256": "3f252d4b3556c2602198b082587aa83f342e2c36d130d0c52a5196d79b3bb500",
+    "bytes": 62345
+  },
+  {
+    "path": "Maverick-Motorsports/stem-design-original.pdf",
+    "sha256": "06dadaf5a5dd96e136ddc27ee4f050ac0c9e5a161dc025d88865280454b3fda6",
+    "bytes": 10848786
+  },
+  {
+    "path": "Maverick-Motorsports/stem-drawings-original.pdf",
+    "sha256": "c5e7e393944e7ec959655bc50b1304b4ebacbc3d4c96f86917d147e8ec51501b",
+    "bytes": 2711497
+  },
+  {
+    "path": "Maverick-Motorsports/stem-racing-portfolio.pdf",
+    "sha256": "71fb91678efb79d572f497e2838b468b0dc107ac68b43d7139ab71425a45a50f",
+    "bytes": 5072040
+  },
+  {
+    "path": "Roblocs/asc.py",
+    "sha256": "d24b0de02e3b9b0d2c7243a71fa6f6ed48c23477755f92a581558805d2d5dc3a",
+    "bytes": 11857
+  },
+  {
+    "path": "Roblocs/dataset_gen.py",
+    "sha256": "96f0836c14f4094e5ee6319b4ef729ba495e98a036e65ec5d7e057e7c5628346",
+    "bytes": 2516
+  },
+  {
+    "path": "Roblocs/g_ler.py",
+    "sha256": "e1cc608757de85682e866f68859b04a8f2401285da749118bebb7fe594226d19",
+    "bytes": 2810
+  },
+  {
+    "path": "Roblocs/robotics-original.pdf",
+    "sha256": "19a2cf41e32d0175a1140842cd6151706c4563d9c7ed0b7bd82b2c24f27ca543",
+    "bytes": 8327192
+  },
+  {
+    "path": "Roblocs/robotics-portfolio.pdf",
+    "sha256": "8195e4d5bc8ea0164a89cf42d38f52bd70dec1aadff4cb2e0e4e16a5fa687669",
+    "bytes": 2554215
+  },
+  {
+    "path": "Roblocs/servobutton.py",
+    "sha256": "23c0d3b4ae482c1cd6d47072753634d4658193346bd6c3da8de8a266ba526c8d",
+    "bytes": 1123
+  }
+]
